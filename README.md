@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Sup!</h1>
+<h1 align="center"> 👋 Sup, I'm Tetie!</h1>
 
 ## About me
 🚗 Roaming developer<br>
