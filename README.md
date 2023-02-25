@@ -10,7 +10,7 @@ I like languages like Python, Javascript and C++
 
 <h3 align="left">Languages I code in</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,py,c,cs,cpp,css,html&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cs,cpp,css,html&theme=dark)
 
 <h3 align="left">Tools & Environments I work with</h3>
 
