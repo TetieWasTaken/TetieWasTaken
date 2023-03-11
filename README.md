@@ -20,7 +20,8 @@ I like languages like Python, Javascript and C++
 
 ## Socials
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/tetiewastaken)](https://github.com/tetiewastaken)
+<a href="https://github.com/TetieWasTaken" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-1d1e1f.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://discord.gg/FJ5DMEb8zA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/TetieWasTaken%234242-339cff.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
 
 <hr>
 
