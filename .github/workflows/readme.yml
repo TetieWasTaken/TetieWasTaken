@@ -1,0 +1,24 @@
+name: Sync readme
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Sync readme
+        run: |
+          cat $(find . -type f -name "*.md" -not -name "README.md" | sort) > ./README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: sync readme"
+          file_pattern: "README.md"
+          commit_user_name: "GitHub Actions"
