@@ -30,7 +30,6 @@ In my free time I enjoy editing videos for all kinds of topics, but I still pref
   srcset="https://github-readme-stats.vercel.app/api?username=tetiewastaken&show_icons=true&hide_title= true&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 <picture>
