@@ -35,22 +35,21 @@ In my free time I enjoy editing videos for all kinds of topics, but I still pref
 
 <!--Thank you to vladfrangu for this table-esque layout-->
 
-<h3 align="left">Languages I code in</h3>
+### 🌐 Languages I code in
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cs,cpp,css,html&theme=dark)
 
-<h3 align="left">Tools & Environments I work with</h3>
+### 🔧 Tools & Environments I work with
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,unity,mongodb,stackoverflow,github,git,githubactions,md,regex,discord&theme=dark)
 
 <hr>
 <!-- End of stats-->
-
-## Socials
+## 📫 Socials
 
 <a href="https://github.com/TetieWasTaken" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-1d1e1f.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://discord.gg/FJ5DMEb8zA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Tetie%234242-339cff.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
-  
+
 <!-- End of socials-->
 <!--- LINKS --->
 
