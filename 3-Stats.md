@@ -1,7 +1,27 @@
-## Stats
+## Statistics
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tetiewastaken&show_icons=true&theme=gotham" alt="tetiewastaken" />
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=tetiewastaken&layout=compact&card_width=275&theme=gotham&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=tetiewastaken&show_icons=true&hide_title= true&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=tetiewastaken&show_icons=true&hide_title= true&theme=swift"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tetiewastaken&show_icons=true&langs_count=6&theme=github_dark&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tetiewastaken&show_icons=true&langs_count=6&theme=swift&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+</picture>
 
 <h3 align="left">Languages I code in</h3>
 
