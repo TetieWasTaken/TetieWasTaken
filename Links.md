@@ -4,6 +4,7 @@
 [`PyGame`]: https://www.pygame.org/
 [`Unity`]: https://unity.com/
 [`C#`]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[`C`]: https://www.cprogramming.com/
 [`C++`]: https://cplusplus.com/
 [`JavaScript`]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [`TypeScript`]: https://www.typescriptlang.org/
