@@ -37,7 +37,7 @@ In my free time I enjoy editing videos for all kinds of topics, but I still pref
 
 ### 🌐 Languages I code in
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,rust,py,c,cs,cpp,css,html&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cs,cpp,css,html&theme=dark)
 
 ### 🔧 Tools & Environments I work with
 
