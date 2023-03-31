@@ -15,7 +15,7 @@
 
 ### 🌐 Languages I code in
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,cs,cpp,css,html&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=ts,js,rust,py,c,cs,cpp,css,html&theme=dark)
 
 ### 🔧 Tools & Environments I work with
 
