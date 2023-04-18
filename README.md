@@ -31,7 +31,7 @@ In my free time I enjoy editing videos for all kinds of topics, but I still pref
 ###### Own work, [`CC BY-SA 4.0`](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <!-- End of about me-->
-## Statistics
+## 🔭 Statistics
 
 <table>
   <tr>
