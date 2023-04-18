@@ -1,4 +1,4 @@
-## Statistics
+## 🔭 Statistics
 
 <table>
   <tr>
