@@ -7,7 +7,7 @@ cat $(find . -type f -name "*.md" -not -name "README.md" | sort) > ./README.md
 <!-- End of introduction-->
 ## Blahaj Gaming 🦖🦈
 
-I do some <img src="/assets/typescript.svg" width="20" height="20" alt="TypeScript"> [`TypeScript`] I guess. For websites <img src="/assets/next.svg" width="20" height="20" alt="Next.JS"> [`Next.JS`] (with <img src="/assets/tailwind.svg" width="20" height="20" alt="TailwindCSS"> [`TailwindCSS`] too) absolutely rocks. 
+I do some <img src="/assets/typescript.svg" width="20" height="20" alt="TypeScript"> [`TypeScript`] I guess. When I built websites I use <img src="/assets/next.svg" width="20" height="20" alt="Next.JS"> [`Next.JS`] (with <img src="/assets/tailwind.svg" width="20" height="20" alt="TailwindCSS"> [`TailwindCSS`] too), it absolutely rocks (although I don't enjoy front-end development).
 
 <!-- End of about me-->
 ## 🔭 Statistics
@@ -25,21 +25,13 @@ I do some <img src="/assets/typescript.svg" width="20" height="20" alt="TypeScri
 
 <!--Thank you to vladfrangu for this table-esque layout-->
 
-### 🌐 Languages I code in
-
-![My Skills](https://skillicons.dev/icons?i=ts,js,rust,py,c,cs,cpp,css,html&theme=dark)
-
-### 🔧 Tools & Environments I work with
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,unity,mongodb,stackoverflow,github,git,githubactions,md,regex,discord&theme=dark)
-
 <hr>
 <!-- End of stats-->
 
-## 📫 Socials
-
-<a href="https://github.com/TetieWasTaken" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-1d1e1f.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://discord.gg/FJ5DMEb8zA" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Tetie%234242-339cff.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
+## Some funky projects
+[simple-dictionary] - [NextJS] dictionary for [high-seas]
+[BobTheBot] - [Discord.JS] general purpose bot
+[wascii] - Webcam to ASCII art in the terminal
 
 <!-- End of socials-->
 <!--- LINKS --->
