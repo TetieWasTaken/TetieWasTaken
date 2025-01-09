@@ -13,13 +13,5 @@
 
 <!--Thank you to vladfrangu for this table-esque layout-->
 
-### 🌐 Languages I code in
-
-![My Skills](https://skillicons.dev/icons?i=ts,js,rust,py,c,cs,cpp,css,html&theme=dark)
-
-### 🔧 Tools & Environments I work with
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,unity,mongodb,stackoverflow,github,git,githubactions,md,regex,discord&theme=dark)
-
 <hr>
 <!-- End of stats-->
