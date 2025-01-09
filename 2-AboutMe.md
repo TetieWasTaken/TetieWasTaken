@@ -1,11 +1,5 @@
-## About me
+## Blahaj Gaming 🦖🦈
 
-### 📈 Experience
-
-#### ✍️ Summarized
-
-- ⚡ Experienced with 📦 [`JavaScript`] and 🔥 [`TypeScript`]
-- 👀 A bit of 🐍 [`Python`], 🎨 [`C#`], and 🦀 [`Rust`]
-- 🚧 Looking forward to learning 📈 [`Kotlin`] and 🚀 [`Next.JS`]
+I do some <img src="/assets/typescript.svg" width="20" height="20" alt="TypeScript"> [`TypeScript`] I guess. For websites <img src="/assets/next.svg" width="20" height="20" alt="Next.JS"> [`Next.JS`] (with <img src="/assets/tailwind.svg> width="20" height="20" alt="TailwindCSS"> [`TailwindCSS`] too) absolutely rocks. 
 
 <!-- End of about me-->
