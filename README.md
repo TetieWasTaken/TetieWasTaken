@@ -29,7 +29,7 @@ I do some <img src="/assets/typescript.svg" width="20" height="20" alt="TypeScri
 <!-- End of stats-->
 
 ## Some funky projects
-[simple-dictionary] - [NextJS] dictionary for [high-seas]
+[simple-dictionary] - [Next.JS] dictionary for [high-seas]
 
 [BobTheBot] - [Discord.JS] general purpose bot
 
@@ -39,7 +39,7 @@ I do some <img src="/assets/typescript.svg" width="20" height="20" alt="TypeScri
 <!--- LINKS --->
 
 [`TypeScript`]: https://www.typescriptlang.org/
-[`NextJS`]: https://nextjs.org/
+[`Next.JS`]: https://nextjs.org/
 [`simple-dictionary`]: https://github.com/TetieWasTaken/simple-dictionary
 [`high-seas`]: https://highseas.hackclub.com/
 [`BobTheBot`]: https://github.com/TetieWasTaken/BobTheBot
