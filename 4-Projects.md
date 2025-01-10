@@ -1,6 +1,6 @@
 
 ## Some funky projects
-[simple-dictionary] - [NextJS] dictionary for [high-seas]
+[simple-dictionary] - [Next.JS] dictionary for [high-seas]
 
 [BobTheBot] - [Discord.JS] general purpose bot
 
