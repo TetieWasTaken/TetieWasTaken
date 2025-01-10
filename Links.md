@@ -7,3 +7,4 @@
 [`BobTheBot`]: https://github.com/TetieWasTaken/BobTheBot
 [`Discord.JS`]: https://discord.js.org/
 [`wascii`]: https://github.com/TetieWasTaken/wascii
+[`TailwindCSS`]: https://tailwindcss.com/
